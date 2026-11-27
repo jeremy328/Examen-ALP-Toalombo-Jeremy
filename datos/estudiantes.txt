@@ -1,0 +1,2 @@
+123;Jeremy Toalombo;15;20;17
+321;Patricio Punina;18;15;20
